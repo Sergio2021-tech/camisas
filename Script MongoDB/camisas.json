@@ -1,0 +1,1658 @@
+[{
+  "_id": {
+    "$oid": "60d217f339d50fdc7be8dbf4"
+  },
+  "moda": "pantalones 1",
+  "tipo": "Pantalón cargo",
+  "precio": "500 ",
+  "ventas": 13
+},{
+  "_id": {
+    "$oid": "60d2193339d50fdc7be8dbf5"
+  },
+  "moda": "pantalones 2",
+  "tipo": "Joggers",
+  "precio": "560",
+  "ventas": 15
+},{
+  "_id": {
+    "$oid": "60d2199839d50fdc7be8dbf6"
+  },
+  "moda": "pantalones 3",
+  "tipo": "Pantalón de talle alto",
+  "precio": "475",
+  "ventas ": 9
+},{
+  "_id": {
+    "$oid": "60d21a5739d50fdc7be8dbf7"
+  },
+  "moda": " ropa de playa 4",
+  "tipo": "Calsonetas",
+  "precio": "400",
+  "ventas ": 19
+},{
+  "_id": {
+    "$oid": "60d21ab939d50fdc7be8dbf8"
+  },
+  "moda": "Ropa De playa 5",
+  "tipo": "camisetas",
+  "precio": "350",
+  "ventas": 21
+},{
+  "_id": {
+    "$oid": "60d232b22f19fe0adc46d1af"
+  },
+  "moda": "pantalon",
+  "tipo": "talla alto",
+  "precio": "850",
+  "ventas": 19
+},{
+  "_id": {
+    "$oid": "60d259bc2f19fe0adc46d1b0"
+  },
+  "moda": "pantalon",
+  "tipo": "talla alto",
+  "precio": "540",
+  "ventas": 15,
+  "Desc": "0.15"
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8069"
+  },
+  "moda": "Moda 1",
+  "tipo": "formal",
+  "precio": 78,
+  "ventas": 83
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf806a"
+  },
+  "moda": "Moda 2",
+  "tipo": "rebelde",
+  "precio": 42,
+  "ventas": 63
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf806b"
+  },
+  "moda": "Moda 3",
+  "tipo": "polo",
+  "precio": 91,
+  "ventas": 42
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf806c"
+  },
+  "moda": "Moda 4",
+  "tipo": "rebelde",
+  "precio": 49,
+  "ventas": 47
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf806d"
+  },
+  "moda": "Moda 5",
+  "tipo": "formal",
+  "precio": 63,
+  "ventas": 29
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf806e"
+  },
+  "moda": "Moda 6",
+  "tipo": "polo",
+  "precio": 78,
+  "ventas": 52
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf806f"
+  },
+  "moda": "Moda 7",
+  "tipo": "rebelde",
+  "precio": 91,
+  "ventas": 37
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8070"
+  },
+  "moda": "Moda 8",
+  "tipo": "casual",
+  "precio": 34,
+  "ventas": 8
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8071"
+  },
+  "moda": "Moda 9",
+  "tipo": "polo",
+  "precio": 34,
+  "ventas": 26
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8072"
+  },
+  "moda": "Moda 10",
+  "tipo": "polo",
+  "precio": 92,
+  "ventas": 56
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8073"
+  },
+  "moda": "Moda 11",
+  "tipo": "casual",
+  "precio": 59,
+  "ventas": 95
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8074"
+  },
+  "moda": "Moda 12",
+  "tipo": "rebelde",
+  "precio": 45,
+  "ventas": 29
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8075"
+  },
+  "moda": "Moda 13",
+  "tipo": "formal",
+  "precio": 47,
+  "ventas": 44
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8076"
+  },
+  "moda": "Moda 14",
+  "tipo": "casual",
+  "precio": 96,
+  "ventas": 87
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8077"
+  },
+  "moda": "Moda 15",
+  "tipo": "rebelde",
+  "precio": 85,
+  "ventas": 49
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8078"
+  },
+  "moda": "Moda 16",
+  "tipo": "rebelde",
+  "precio": 94,
+  "ventas": 16
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8079"
+  },
+  "moda": "Moda 17",
+  "tipo": "polo",
+  "precio": 73,
+  "ventas": 10
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf807a"
+  },
+  "moda": "Moda 18",
+  "tipo": "polo",
+  "precio": 90,
+  "ventas": 34
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf807b"
+  },
+  "moda": "Moda 19",
+  "tipo": "casual",
+  "precio": 49,
+  "ventas": 69
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf807c"
+  },
+  "moda": "Moda 20",
+  "tipo": "polo",
+  "precio": 19,
+  "ventas": 72
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf807d"
+  },
+  "moda": "Moda 21",
+  "tipo": "rebelde",
+  "precio": 72,
+  "ventas": 80
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf807e"
+  },
+  "moda": "Moda 22",
+  "tipo": "casual",
+  "precio": 89,
+  "ventas": 96
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf807f"
+  },
+  "moda": "Moda 23",
+  "tipo": "casual",
+  "precio": 53,
+  "ventas": 82
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8080"
+  },
+  "moda": "Moda 24",
+  "tipo": "formal",
+  "precio": 59,
+  "ventas": 46
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8081"
+  },
+  "moda": "Moda 25",
+  "tipo": "casual",
+  "precio": 61,
+  "ventas": 56
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8082"
+  },
+  "moda": "Moda 26",
+  "tipo": "casual",
+  "precio": 91,
+  "ventas": 46
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8083"
+  },
+  "moda": "Moda 27",
+  "tipo": "formal",
+  "precio": 63,
+  "ventas": 94
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8084"
+  },
+  "moda": "Moda 28",
+  "tipo": "polo",
+  "precio": 66,
+  "ventas": 20
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8085"
+  },
+  "moda": "Moda 29",
+  "tipo": "polo",
+  "precio": 36,
+  "ventas": 57
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8086"
+  },
+  "moda": "Moda 30",
+  "tipo": "polo",
+  "precio": 70,
+  "ventas": 87
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8087"
+  },
+  "moda": "Moda 31",
+  "tipo": "casual",
+  "precio": 11,
+  "ventas": 66
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8088"
+  },
+  "moda": "Moda 32",
+  "tipo": "polo",
+  "precio": 49,
+  "ventas": 87
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8089"
+  },
+  "moda": "Moda 33",
+  "tipo": "formal",
+  "precio": 30,
+  "ventas": 31
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf808a"
+  },
+  "moda": "Moda 34",
+  "tipo": "casual",
+  "precio": 13,
+  "ventas": 7
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf808b"
+  },
+  "moda": "Moda 35",
+  "tipo": "formal",
+  "precio": 6,
+  "ventas": 73
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf808c"
+  },
+  "moda": "Moda 36",
+  "tipo": "rebelde",
+  "precio": 82,
+  "ventas": 87
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf808d"
+  },
+  "moda": "Moda 37",
+  "tipo": "polo",
+  "precio": 62,
+  "ventas": 30
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf808e"
+  },
+  "moda": "Moda 38",
+  "tipo": "formal",
+  "precio": 34,
+  "ventas": 10
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf808f"
+  },
+  "moda": "Moda 39",
+  "tipo": "polo",
+  "precio": 74,
+  "ventas": 40
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8090"
+  },
+  "moda": "Moda 40",
+  "tipo": "rebelde",
+  "precio": 50,
+  "ventas": 74
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8091"
+  },
+  "moda": "Moda 41",
+  "tipo": "casual",
+  "precio": 46,
+  "ventas": 30
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8092"
+  },
+  "moda": "Moda 42",
+  "tipo": "casual",
+  "precio": 54,
+  "ventas": 55
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8093"
+  },
+  "moda": "Moda 43",
+  "tipo": "casual",
+  "precio": 97,
+  "ventas": 61
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8094"
+  },
+  "moda": "Moda 44",
+  "tipo": "polo",
+  "precio": 15,
+  "ventas": 70
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8095"
+  },
+  "moda": "Moda 45",
+  "tipo": "formal",
+  "precio": 92,
+  "ventas": 44
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8096"
+  },
+  "moda": "Moda 46",
+  "tipo": "formal",
+  "precio": 22,
+  "ventas": 88
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8097"
+  },
+  "moda": "Moda 47",
+  "tipo": "casual",
+  "precio": 52,
+  "ventas": 70
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8098"
+  },
+  "moda": "Moda 48",
+  "tipo": "casual",
+  "precio": 59,
+  "ventas": 94
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf8099"
+  },
+  "moda": "Moda 49",
+  "tipo": "formal",
+  "precio": 31,
+  "ventas": 28
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf809a"
+  },
+  "moda": "Moda 50",
+  "tipo": "polo",
+  "precio": 40,
+  "ventas": 14
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf809b"
+  },
+  "moda": "Moda 51",
+  "tipo": "rebelde",
+  "precio": 73,
+  "ventas": 91
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf809c"
+  },
+  "moda": "Moda 52",
+  "tipo": "formal",
+  "precio": 84,
+  "ventas": 51
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf809d"
+  },
+  "moda": "Moda 53",
+  "tipo": "polo",
+  "precio": 69,
+  "ventas": 53
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf809e"
+  },
+  "moda": "Moda 54",
+  "tipo": "formal",
+  "precio": 87,
+  "ventas": 52
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf809f"
+  },
+  "moda": "Moda 55",
+  "tipo": "polo",
+  "precio": 67,
+  "ventas": 49
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80a0"
+  },
+  "moda": "Moda 56",
+  "tipo": "formal",
+  "precio": 26,
+  "ventas": 54
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80a1"
+  },
+  "moda": "Moda 57",
+  "tipo": "casual",
+  "precio": 45,
+  "ventas": 32
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80a2"
+  },
+  "moda": "Moda 58",
+  "tipo": "polo",
+  "precio": 90,
+  "ventas": 85
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80a3"
+  },
+  "moda": "Moda 59",
+  "tipo": "rebelde",
+  "precio": 84,
+  "ventas": 40
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80a4"
+  },
+  "moda": "Moda 60",
+  "tipo": "rebelde",
+  "precio": 93,
+  "ventas": 69
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80a5"
+  },
+  "moda": "Moda 61",
+  "tipo": "polo",
+  "precio": 9,
+  "ventas": 80
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80a6"
+  },
+  "moda": "Moda 62",
+  "tipo": "formal",
+  "precio": 45,
+  "ventas": 34
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80a7"
+  },
+  "moda": "Moda 63",
+  "tipo": "formal",
+  "precio": 56,
+  "ventas": 58
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80a8"
+  },
+  "moda": "Moda 64",
+  "tipo": "formal",
+  "precio": 75,
+  "ventas": 14
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80a9"
+  },
+  "moda": "Moda 65",
+  "tipo": "polo",
+  "precio": 6,
+  "ventas": 72
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80aa"
+  },
+  "moda": "Moda 66",
+  "tipo": "polo",
+  "precio": 11,
+  "ventas": 24
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80ab"
+  },
+  "moda": "Moda 67",
+  "tipo": "rebelde",
+  "precio": 7,
+  "ventas": 27
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80ac"
+  },
+  "moda": "Moda 68",
+  "tipo": "polo",
+  "precio": 64,
+  "ventas": 56
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80ad"
+  },
+  "moda": "Moda 69",
+  "tipo": "formal",
+  "precio": 96,
+  "ventas": 42
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80ae"
+  },
+  "moda": "Moda 70",
+  "tipo": "formal",
+  "precio": 81,
+  "ventas": 92
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80af"
+  },
+  "moda": "Moda 71",
+  "tipo": "rebelde",
+  "precio": 31,
+  "ventas": 24
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80b0"
+  },
+  "moda": "Moda 72",
+  "tipo": "polo",
+  "precio": 25,
+  "ventas": 32
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80b1"
+  },
+  "moda": "Moda 73",
+  "tipo": "rebelde",
+  "precio": 33,
+  "ventas": 89
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80b2"
+  },
+  "moda": "Moda 74",
+  "tipo": "polo",
+  "precio": 41,
+  "ventas": 5
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80b3"
+  },
+  "moda": "Moda 75",
+  "tipo": "polo",
+  "precio": 100,
+  "ventas": 12
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80b4"
+  },
+  "moda": "Moda 76",
+  "tipo": "casual",
+  "precio": 64,
+  "ventas": 74
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80b5"
+  },
+  "moda": "Moda 77",
+  "tipo": "rebelde",
+  "precio": 74,
+  "ventas": 62
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80b6"
+  },
+  "moda": "Moda 78",
+  "tipo": "formal",
+  "precio": 84,
+  "ventas": 27
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80b7"
+  },
+  "moda": "Moda 79",
+  "tipo": "formal",
+  "precio": 37,
+  "ventas": 40
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80b8"
+  },
+  "moda": "Moda 80",
+  "tipo": "casual",
+  "precio": 99,
+  "ventas": 81
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80b9"
+  },
+  "moda": "Moda 81",
+  "tipo": "rebelde",
+  "precio": 29,
+  "ventas": 38
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80ba"
+  },
+  "moda": "Moda 82",
+  "tipo": "rebelde",
+  "precio": 13,
+  "ventas": 11
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80bb"
+  },
+  "moda": "Moda 83",
+  "tipo": "casual",
+  "precio": 40,
+  "ventas": 18
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80bc"
+  },
+  "moda": "Moda 84",
+  "tipo": "polo",
+  "precio": 32,
+  "ventas": 83
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80bd"
+  },
+  "moda": "Moda 85",
+  "tipo": "polo",
+  "precio": 49,
+  "ventas": 5
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80be"
+  },
+  "moda": "Moda 86",
+  "tipo": "rebelde",
+  "precio": 0,
+  "ventas": 4
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80bf"
+  },
+  "moda": "Moda 87",
+  "tipo": "formal",
+  "precio": 65,
+  "ventas": 71
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80c0"
+  },
+  "moda": "Moda 88",
+  "tipo": "polo",
+  "precio": 46,
+  "ventas": 88
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80c1"
+  },
+  "moda": "Moda 89",
+  "tipo": "formal",
+  "precio": 62,
+  "ventas": 44
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80c2"
+  },
+  "moda": "Moda 90",
+  "tipo": "polo",
+  "precio": 11,
+  "ventas": 1
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80c3"
+  },
+  "moda": "Moda 91",
+  "tipo": "polo",
+  "precio": 4,
+  "ventas": 93
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80c4"
+  },
+  "moda": "Moda 92",
+  "tipo": "rebelde",
+  "precio": 66,
+  "ventas": 35
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80c5"
+  },
+  "moda": "Moda 93",
+  "tipo": "casual",
+  "precio": 32,
+  "ventas": 79
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80c6"
+  },
+  "moda": "Moda 94",
+  "tipo": "formal",
+  "precio": 93,
+  "ventas": 60
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80c7"
+  },
+  "moda": "Moda 95",
+  "tipo": "formal",
+  "precio": 68,
+  "ventas": 43
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80c8"
+  },
+  "moda": "Moda 96",
+  "tipo": "casual",
+  "precio": 96,
+  "ventas": 43
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80c9"
+  },
+  "moda": "Moda 97",
+  "tipo": "polo",
+  "precio": 26,
+  "ventas": 57
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80ca"
+  },
+  "moda": "Moda 98",
+  "tipo": "polo",
+  "precio": 57,
+  "ventas": 45
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80cb"
+  },
+  "moda": "Moda 99",
+  "tipo": "formal",
+  "precio": 84,
+  "ventas": 62
+},{
+  "_id": {
+    "$oid": "60d2b205be73971009bf80cc"
+  },
+  "moda": "Moda 100",
+  "tipo": "polo",
+  "precio": 62,
+  "ventas": 99
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8131"
+  },
+  "moda": "Moda 1",
+  "tipo": "formal",
+  "precio": 46,
+  "ventas": 15
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8132"
+  },
+  "moda": "Moda 2",
+  "tipo": "polo",
+  "precio": 11,
+  "ventas": 65
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8133"
+  },
+  "moda": "Moda 3",
+  "tipo": "polo",
+  "precio": 57,
+  "ventas": 96
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8134"
+  },
+  "moda": "Moda 4",
+  "tipo": "rebelde",
+  "precio": 94,
+  "ventas": 70
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8135"
+  },
+  "moda": "Moda 5",
+  "tipo": "casual",
+  "precio": 28,
+  "ventas": 9
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8136"
+  },
+  "moda": "Moda 6",
+  "tipo": "rebelde",
+  "precio": 24,
+  "ventas": 11
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8137"
+  },
+  "moda": "Moda 7",
+  "tipo": "polo",
+  "precio": 99,
+  "ventas": 54
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8138"
+  },
+  "moda": "Moda 8",
+  "tipo": "casual",
+  "precio": 41,
+  "ventas": 34
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8139"
+  },
+  "moda": "Moda 9",
+  "tipo": "formal",
+  "precio": 13,
+  "ventas": 65
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf813a"
+  },
+  "moda": "Moda 10",
+  "tipo": "rebelde",
+  "precio": 43,
+  "ventas": 71
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf813b"
+  },
+  "moda": "Moda 11",
+  "tipo": "rebelde",
+  "precio": 75,
+  "ventas": 34
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf813c"
+  },
+  "moda": "Moda 12",
+  "tipo": "polo",
+  "precio": 55,
+  "ventas": 52
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf813d"
+  },
+  "moda": "Moda 13",
+  "tipo": "casual",
+  "precio": 92,
+  "ventas": 20
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf813e"
+  },
+  "moda": "Moda 14",
+  "tipo": "polo",
+  "precio": 89,
+  "ventas": 99
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf813f"
+  },
+  "moda": "Moda 15",
+  "tipo": "casual",
+  "precio": 7,
+  "ventas": 93
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8140"
+  },
+  "moda": "Moda 16",
+  "tipo": "polo",
+  "precio": 73,
+  "ventas": 3
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8141"
+  },
+  "moda": "Moda 17",
+  "tipo": "casual",
+  "precio": 61,
+  "ventas": 34
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8142"
+  },
+  "moda": "Moda 18",
+  "tipo": "rebelde",
+  "precio": 49,
+  "ventas": 30
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8143"
+  },
+  "moda": "Moda 19",
+  "tipo": "rebelde",
+  "precio": 89,
+  "ventas": 47
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8144"
+  },
+  "moda": "Moda 20",
+  "tipo": "formal",
+  "precio": 67,
+  "ventas": 56
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8145"
+  },
+  "moda": "Moda 21",
+  "tipo": "rebelde",
+  "precio": 91,
+  "ventas": 80
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8146"
+  },
+  "moda": "Moda 22",
+  "tipo": "rebelde",
+  "precio": 74,
+  "ventas": 55
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8147"
+  },
+  "moda": "Moda 23",
+  "tipo": "rebelde",
+  "precio": 65,
+  "ventas": 66
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8148"
+  },
+  "moda": "Moda 24",
+  "tipo": "casual",
+  "precio": 58,
+  "ventas": 79
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8149"
+  },
+  "moda": "Moda 25",
+  "tipo": "rebelde",
+  "precio": 66,
+  "ventas": 87
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf814a"
+  },
+  "moda": "Moda 26",
+  "tipo": "casual",
+  "precio": 69,
+  "ventas": 79
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf814b"
+  },
+  "moda": "Moda 27",
+  "tipo": "formal",
+  "precio": 57,
+  "ventas": 33
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf814c"
+  },
+  "moda": "Moda 28",
+  "tipo": "formal",
+  "precio": 69,
+  "ventas": 54
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf814d"
+  },
+  "moda": "Moda 29",
+  "tipo": "rebelde",
+  "precio": 39,
+  "ventas": 18
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf814e"
+  },
+  "moda": "Moda 30",
+  "tipo": "casual",
+  "precio": 63,
+  "ventas": 75
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf814f"
+  },
+  "moda": "Moda 31",
+  "tipo": "casual",
+  "precio": 54,
+  "ventas": 40
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8150"
+  },
+  "moda": "Moda 32",
+  "tipo": "casual",
+  "precio": 19,
+  "ventas": 60
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8151"
+  },
+  "moda": "Moda 33",
+  "tipo": "formal",
+  "precio": 95,
+  "ventas": 15
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8152"
+  },
+  "moda": "Moda 34",
+  "tipo": "polo",
+  "precio": 62,
+  "ventas": 92
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8153"
+  },
+  "moda": "Moda 35",
+  "tipo": "formal",
+  "precio": 52,
+  "ventas": 35
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8154"
+  },
+  "moda": "Moda 36",
+  "tipo": "casual",
+  "precio": 34,
+  "ventas": 8
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8155"
+  },
+  "moda": "Moda 37",
+  "tipo": "casual",
+  "precio": 60,
+  "ventas": 31
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8156"
+  },
+  "moda": "Moda 38",
+  "tipo": "casual",
+  "precio": 98,
+  "ventas": 69
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8157"
+  },
+  "moda": "Moda 39",
+  "tipo": "formal",
+  "precio": 51,
+  "ventas": 87
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8158"
+  },
+  "moda": "Moda 40",
+  "tipo": "casual",
+  "precio": 81,
+  "ventas": 84
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8159"
+  },
+  "moda": "Moda 41",
+  "tipo": "polo",
+  "precio": 86,
+  "ventas": 68
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf815a"
+  },
+  "moda": "Moda 42",
+  "tipo": "rebelde",
+  "precio": 50,
+  "ventas": 44
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf815b"
+  },
+  "moda": "Moda 43",
+  "tipo": "rebelde",
+  "precio": 59,
+  "ventas": 60
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf815c"
+  },
+  "moda": "Moda 44",
+  "tipo": "polo",
+  "precio": 68,
+  "ventas": 71
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf815d"
+  },
+  "moda": "Moda 45",
+  "tipo": "casual",
+  "precio": 99,
+  "ventas": 18
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf815e"
+  },
+  "moda": "Moda 46",
+  "tipo": "casual",
+  "precio": 32,
+  "ventas": 34
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf815f"
+  },
+  "moda": "Moda 47",
+  "tipo": "polo",
+  "precio": 73,
+  "ventas": 79
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8160"
+  },
+  "moda": "Moda 48",
+  "tipo": "formal",
+  "precio": 7,
+  "ventas": 43
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8161"
+  },
+  "moda": "Moda 49",
+  "tipo": "polo",
+  "precio": 84,
+  "ventas": 97
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8162"
+  },
+  "moda": "Moda 50",
+  "tipo": "formal",
+  "precio": 6,
+  "ventas": 16
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8163"
+  },
+  "moda": "Moda 51",
+  "tipo": "polo",
+  "precio": 94,
+  "ventas": 45
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8164"
+  },
+  "moda": "Moda 52",
+  "tipo": "casual",
+  "precio": 51,
+  "ventas": 22
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8165"
+  },
+  "moda": "Moda 53",
+  "tipo": "polo",
+  "precio": 10,
+  "ventas": 35
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8166"
+  },
+  "moda": "Moda 54",
+  "tipo": "polo",
+  "precio": 34,
+  "ventas": 74
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8167"
+  },
+  "moda": "Moda 55",
+  "tipo": "casual",
+  "precio": 31,
+  "ventas": 51
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8168"
+  },
+  "moda": "Moda 56",
+  "tipo": "rebelde",
+  "precio": 11,
+  "ventas": 37
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8169"
+  },
+  "moda": "Moda 57",
+  "tipo": "polo",
+  "precio": 91,
+  "ventas": 55
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf816a"
+  },
+  "moda": "Moda 58",
+  "tipo": "rebelde",
+  "precio": 89,
+  "ventas": 13
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf816b"
+  },
+  "moda": "Moda 59",
+  "tipo": "casual",
+  "precio": 96,
+  "ventas": 54
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf816c"
+  },
+  "moda": "Moda 60",
+  "tipo": "casual",
+  "precio": 14,
+  "ventas": 4
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf816d"
+  },
+  "moda": "Moda 61",
+  "tipo": "casual",
+  "precio": 68,
+  "ventas": 47
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf816e"
+  },
+  "moda": "Moda 62",
+  "tipo": "rebelde",
+  "precio": 64,
+  "ventas": 99
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf816f"
+  },
+  "moda": "Moda 63",
+  "tipo": "polo",
+  "precio": 4,
+  "ventas": 37
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8170"
+  },
+  "moda": "Moda 64",
+  "tipo": "casual",
+  "precio": 52,
+  "ventas": 80
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8171"
+  },
+  "moda": "Moda 65",
+  "tipo": "polo",
+  "precio": 55,
+  "ventas": 97
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8172"
+  },
+  "moda": "Moda 66",
+  "tipo": "rebelde",
+  "precio": 26,
+  "ventas": 5
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8173"
+  },
+  "moda": "Moda 67",
+  "tipo": "casual",
+  "precio": 59,
+  "ventas": 71
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8174"
+  },
+  "moda": "Moda 68",
+  "tipo": "casual",
+  "precio": 38,
+  "ventas": 90
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8175"
+  },
+  "moda": "Moda 69",
+  "tipo": "casual",
+  "precio": 21,
+  "ventas": 17
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8176"
+  },
+  "moda": "Moda 70",
+  "tipo": "rebelde",
+  "precio": 61,
+  "ventas": 50
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8177"
+  },
+  "moda": "Moda 71",
+  "tipo": "formal",
+  "precio": 6,
+  "ventas": 64
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8178"
+  },
+  "moda": "Moda 72",
+  "tipo": "rebelde",
+  "precio": 3,
+  "ventas": 5
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8179"
+  },
+  "moda": "Moda 73",
+  "tipo": "rebelde",
+  "precio": 35,
+  "ventas": 43
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf817a"
+  },
+  "moda": "Moda 74",
+  "tipo": "casual",
+  "precio": 44,
+  "ventas": 90
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf817b"
+  },
+  "moda": "Moda 75",
+  "tipo": "polo",
+  "precio": 45,
+  "ventas": 27
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf817c"
+  },
+  "moda": "Moda 76",
+  "tipo": "casual",
+  "precio": 95,
+  "ventas": 49
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf817d"
+  },
+  "moda": "Moda 77",
+  "tipo": "formal",
+  "precio": 80,
+  "ventas": 95
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf817e"
+  },
+  "moda": "Moda 78",
+  "tipo": "polo",
+  "precio": 61,
+  "ventas": 60
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf817f"
+  },
+  "moda": "Moda 79",
+  "tipo": "casual",
+  "precio": 10,
+  "ventas": 49
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8180"
+  },
+  "moda": "Moda 80",
+  "tipo": "rebelde",
+  "precio": 81,
+  "ventas": 7
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8181"
+  },
+  "moda": "Moda 81",
+  "tipo": "casual",
+  "precio": 23,
+  "ventas": 80
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8182"
+  },
+  "moda": "Moda 82",
+  "tipo": "formal",
+  "precio": 97,
+  "ventas": 35
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8183"
+  },
+  "moda": "Moda 83",
+  "tipo": "rebelde",
+  "precio": 72,
+  "ventas": 20
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8184"
+  },
+  "moda": "Moda 84",
+  "tipo": "polo",
+  "precio": 96,
+  "ventas": 45
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8185"
+  },
+  "moda": "Moda 85",
+  "tipo": "rebelde",
+  "precio": 50,
+  "ventas": 35
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8186"
+  },
+  "moda": "Moda 86",
+  "tipo": "polo",
+  "precio": 99,
+  "ventas": 53
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8187"
+  },
+  "moda": "Moda 87",
+  "tipo": "rebelde",
+  "precio": 7,
+  "ventas": 68
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8188"
+  },
+  "moda": "Moda 88",
+  "tipo": "formal",
+  "precio": 43,
+  "ventas": 79
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8189"
+  },
+  "moda": "Moda 89",
+  "tipo": "casual",
+  "precio": 46,
+  "ventas": 10
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf818a"
+  },
+  "moda": "Moda 90",
+  "tipo": "casual",
+  "precio": 39,
+  "ventas": 85
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf818b"
+  },
+  "moda": "Moda 91",
+  "tipo": "rebelde",
+  "precio": 26,
+  "ventas": 18
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf818c"
+  },
+  "moda": "Moda 92",
+  "tipo": "formal",
+  "precio": 78,
+  "ventas": 66
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf818d"
+  },
+  "moda": "Moda 93",
+  "tipo": "rebelde",
+  "precio": 84,
+  "ventas": 80
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf818e"
+  },
+  "moda": "Moda 94",
+  "tipo": "formal",
+  "precio": 34,
+  "ventas": 6
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf818f"
+  },
+  "moda": "Moda 95",
+  "tipo": "formal",
+  "precio": 43,
+  "ventas": 91
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8190"
+  },
+  "moda": "Moda 96",
+  "tipo": "rebelde",
+  "precio": 78,
+  "ventas": 88
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8191"
+  },
+  "moda": "Moda 97",
+  "tipo": "formal",
+  "precio": 51,
+  "ventas": 74
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8192"
+  },
+  "moda": "Moda 98",
+  "tipo": "polo",
+  "precio": 16,
+  "ventas": 64
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8193"
+  },
+  "moda": "Moda 99",
+  "tipo": "formal",
+  "precio": 7,
+  "ventas": 82
+},{
+  "_id": {
+    "$oid": "60d2b26ebe73971009bf8194"
+  },
+  "moda": "Moda 100",
+  "tipo": "formal",
+  "precio": 46,
+  "ventas": 60
+}]
