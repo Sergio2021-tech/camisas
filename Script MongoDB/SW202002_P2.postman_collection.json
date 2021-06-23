@@ -1,0 +1,394 @@
+{
+	"info": {
+		"_postman_id": "1f143b12-91fb-4886-b10c-b58facbebaba",
+		"name": "SW202002_P2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Snippets",
+			"item": [
+				{
+					"name": "Get All",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/api/snippets/",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"api",
+								"snippets",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "New",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "name",
+									"value": "Snippet 3",
+									"type": "text"
+								},
+								{
+									"key": "snippet",
+									"value": "Try some catch exception",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{HOST}}/api/snippets/new",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"api",
+								"snippets",
+								"new"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add Any",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "moda",
+									"value": "pantalon",
+									"type": "text"
+								},
+								{
+									"key": "tipo",
+									"value": "talla alto",
+									"type": "text"
+								},
+								{
+									"key": "precio",
+									"value": "540",
+									"type": "text"
+								},
+								{
+									"key": "ventas",
+									"value": "15",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{HOST}}/api/snippets/any",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"api",
+								"snippets",
+								"any"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get by Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/api/snippets/byid/",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"api",
+								"snippets",
+								"byid",
+								""
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Camisas",
+			"item": [
+				{
+					"name": "Get All",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/api/camisas/",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"api",
+								"camisas",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "new",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "moda",
+									"value": "pantalon",
+									"type": "text"
+								},
+								{
+									"key": "tipo",
+									"value": "talla alto",
+									"type": "text"
+								},
+								{
+									"key": "precio",
+									"value": "850",
+									"type": "text"
+								},
+								{
+									"key": "ventas",
+									"value": "5",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{HOST}}/api/camisas/new",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"api",
+								"camisas",
+								"new"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add Any",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": [
+								{
+									"key": "moda",
+									"value": "pantalon",
+									"type": "text"
+								},
+								{
+									"key": "tipo",
+									"value": "talla alto",
+									"type": "text"
+								},
+								{
+									"key": "precio",
+									"value": "540",
+									"type": "text"
+								},
+								{
+									"key": "ventas",
+									"value": "15",
+									"type": "text"
+								},
+								{
+									"key": "Desc",
+									"value": "0.15",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{HOST}}/api/camisas/any",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"api",
+								"camisas",
+								"any"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get by Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/api/camisas/byid/:id",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"api",
+								"camisas",
+								"byid",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "60d232b22f19fe0adc46d1af"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get By Ventas",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/api/camisas/byventas/:ventas",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"api",
+								"camisas",
+								"byventas",
+								":ventas"
+							],
+							"variable": [
+								{
+									"key": "ventas",
+									"value": "13"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get By Ventas whit Operator",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/api/camisas/byventas/:operator/:ventas",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"api",
+								"camisas",
+								"byventas",
+								":operator",
+								":ventas"
+							],
+							"variable": [
+								{
+									"key": "operator",
+									"value": "ite"
+								},
+								{
+									"key": "ventas",
+									"value": "13"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get By Ventas Range",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{HOST}}/api/camisas/byventas/range/:lower/:upper/:incEndings",
+							"host": [
+								"{{HOST}}"
+							],
+							"path": [
+								"api",
+								"camisas",
+								"byventas",
+								"range",
+								":lower",
+								":upper",
+								":incEndings"
+							],
+							"variable": [
+								{
+									"key": "lower",
+									"value": "20"
+								},
+								{
+									"key": "upper",
+									"value": "30"
+								},
+								{
+									"key": "incEndings",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "HOST",
+			"value": "http://localhost:3000"
+		}
+	]
+}
